@@ -1,0 +1,34 @@
+Listado de rutas de carpetas
+El n£mero de serie del volumen es F28A-6847
+C:.
+|   main.dart
+|   tree.txt
+|   
+\---app
+    +---data
+    |   +---models
+    |   |   \---response
+    |   |           response_distribuidora_model.dart
+    |   |           response_matteldesabaste_model.dart
+    |   |           response_puntoventa_model.dart
+    |   |           response_usuario_model.dart
+    |   |           
+    |   \---providers
+    |           distribuidora_provider.dart
+    |           puntoventa_provider.dart
+    |           usuario_provider.dart
+    |           
+    +---services
+    |   \---database
+    |           db.dart
+    |           execute_sqlite.dart
+    |           tables.dart
+    |           
+    \---ui
+        +---components
+        \---views
+            +---home
+            +---Login
+            \---sincronizar
+                    sincronizar_view.dart
+                    
